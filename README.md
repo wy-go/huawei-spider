@@ -19,6 +19,6 @@
 
 ## Technologies used
 - Python
-- Scrapy, Splash
+- Scrapy, Splash, Lua 
 - Elasticsearch
 
