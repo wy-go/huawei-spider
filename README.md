@@ -3,7 +3,9 @@
  
  
 ## Functionality
-- **Web crawling:** app can download and validate all articles from the given domains
+- **hwtop_spider.py:** crawl app information from https://appgallery.huawei.com/#/Top
+- **hwapp_spider.py:** crawl app information from only the initial page of https://appgallery.huawei.com/#/Apps
+- **hwapp_spider.py:** switch various categoriy pages at https://appgallery.huawei.com/#/Apps, jump into every app mainpage to crawl more comprehensive information 
 
 ## Preview
 
