@@ -9,10 +9,10 @@
 
 
 ### JSON file:
-![](https://github.com/wy-go/huawei-spider/blob/main/readme-files/json-data.png)
+![](https://raw.githubusercontent.com/wy-go/huawei-spider/blob/main/readme-files/json-data.png)
 
 ### Elasticsearch-head:
-![](https://github.com/wy-go/huawei-spider/blob/main/readme-files/es-head-data.png)
+![](https://raw.githubusercontent.com/wy-go/huawei-spider/blob/main/readme-files/es-head-data.png)
 
 
 ## Technologies used
