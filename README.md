@@ -4,8 +4,8 @@
  
 ## Functionality
 - **hwtop_spider.py:** crawl app information from https://appgallery.huawei.com/#/Top
-- **hwapp_spider.py:** crawl app information from only the initial page of https://appgallery.huawei.com/#/Apps
-- **hwapp_spider.py:** switch various categoriy pages at https://appgallery.huawei.com/#/Apps, jump into every app mainpage to crawl more comprehensive information 
+- **hwapp_spider.py:** crawl app information directly from only the initial page of https://appgallery.huawei.com/#/Apps
+- **hwapp_spider2.py:** switch various categoriy pages at https://appgallery.huawei.com/#/Apps, jump into every app mainpage to crawl more comprehensive information 
 
 ## Preview
 
